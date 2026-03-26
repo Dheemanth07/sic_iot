@@ -1,0 +1,5 @@
+.env
+*.token
+*access*
+sic-iot-personal access token
+
